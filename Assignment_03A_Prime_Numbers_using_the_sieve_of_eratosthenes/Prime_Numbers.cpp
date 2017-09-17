@@ -3,7 +3,6 @@
     Purpose: Compute and print the prime numbers up to MAX_NUMBER using Sieve of Eratosthenes algorithm.
 
     @author Vijay Yadav
-    @student_id 011463192
     @date 09/10/2017
 */
 
