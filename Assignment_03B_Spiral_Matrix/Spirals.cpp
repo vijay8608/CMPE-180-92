@@ -4,7 +4,6 @@
     center of the n*n matrix and going outwards in anti-clock wise direction.
 
     @author Vijay Yadav
-    @student_id 011463192
     @date 09/10/2017
 */
 
