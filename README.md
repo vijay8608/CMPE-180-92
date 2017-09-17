@@ -1,4 +1,4 @@
 # CMPE 180-92 
 Object Oriented Programming and Data Structures
 
-Contains assignments for Subject CMPE 180-92 : Object Oriented Programming and Data Structures in C++
+Contains assignments for course CMPE 180-92 : Object Oriented Programming and Data Structures in C++
