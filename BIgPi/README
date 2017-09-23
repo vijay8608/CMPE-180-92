@@ -1,0 +1,11 @@
+ compute and print the first thousand decimal places of pi. 
+ 
+ Practice downloading, configuring, building, installing, and using a C++ library.
+ 
+ Download mpir library from http://mpir.org/downloads.html and use The Nonic Convergence algorithm 
+ ( https://en.wikipedia.org/wiki/Borwein's_algorithm ). Each iteration
+ increases the number of correct digits by a factor of 9.
+ 
+ Use Newtons Method to compute the cube root . https://en.wikipedia.org/wiki/Cube_root
+ 
+ 
