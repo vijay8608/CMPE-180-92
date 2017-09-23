@@ -1,0 +1,4 @@
+Use Assignment 3a and 3b and print a spiral matrix starting from center and going outwards in anti clock wise direction.
+But instead of prime numbers print "#" and instead of composite numbers print "."
+
+Do you notice any pattern in the output ? Try this for different arrangement of the matrix and see if you find any pattern in that output.
