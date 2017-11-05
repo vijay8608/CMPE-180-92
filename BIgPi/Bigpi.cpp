@@ -4,6 +4,7 @@
     			 Borwein's algorithm ( Nonic Convergence algorithm ) and Newtons cube root method
 
     @author Vijay Yadav
+    @student_id 011463192
     @date 09/20/2017
 */
 #include <iostream>
