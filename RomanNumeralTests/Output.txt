@@ -1,0 +1,17 @@
+Test 1
+
+r1 = [53:LIII]
+r2 = [1949:MCMXLIX]
+r3 = [34:XXXIV]
+r4 = [1949:MCMXLIX]
+result = r1 + r2/r3 = [53:LIII] + [1949:MCMXLIX] / [34:XXXIV] = [110:CX]
+
+[1949:MCMXLIX] and [1949:MCMXLIX] are equal.
+[53:LIII] and [34:XXXIV] are unequal.
+
+Test 2
+
+[1963:MCMLXIII] + [53:LIII] = [2016:MMXVI]
+[2001:MMI] - [33:XXXIII] = [1968:MCMLXVIII]
+[53:LIII] * [33:XXXIII] = [1749:MDCCXLIX]
+[2001:MMI] / [33:XXXIII] = [60:LX]
