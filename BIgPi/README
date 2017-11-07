@@ -1,7 +1,6 @@
  compute and print the first thousand decimal places of PI.
  
- Use  Multiple Precision Integers and Rationals (MPIR) library as normal data types variables and operations
- cannot be done on such large numbers.
+ Use  Multiple Precision Integers and Rationals (MPIR) library as normal data types variables and operations cannot be done on such large numbers.
  
  
 Have used “Nonic convergence”. Each iteration increases the number of correct digits by a factor of 9.
