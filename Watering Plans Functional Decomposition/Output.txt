@@ -15,9 +15,9 @@ FAUCET 		16		1		25
 
 Plan Near: Total Steps = 16, total step-units = 25
 
-=========================
+==========================
  Plan Far with 5 plants
-=========================
+==========================
 
 Where      Cum. steps  Water amt.  Cum. step-units
 ---------  ----------  ----------  ---------------
@@ -50,9 +50,9 @@ FAUCET 		18		0		21
 
 Plan Near: Total Steps = 18, total step-units = 21
 
-=========================
+==========================
  Plan Far with 6 plants
-=========================
+==========================
 
 Where      Cum. steps  Water amt.  Cum. step-units
 ---------  ----------  ----------  ---------------
@@ -88,9 +88,9 @@ FAUCET 		32		2		56
 
 Plan Near: Total Steps = 32, total step-units = 56
 
-=========================
+==========================
  Plan Far with 7 plants
-=========================
+==========================
 
 Where      Cum. steps  Water amt.  Cum. step-units
 ---------  ----------  ----------  ---------------
