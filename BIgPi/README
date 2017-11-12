@@ -1,0 +1,13 @@
+ compute and print the first thousand decimal places of PI.
+ 
+ Use  Multiple Precision Integers and Rationals (MPIR) library as normal data types variables and operations cannot be done on such large numbers.
+ 
+ 
+Have used “Nonic convergence”. Each iteration increases the number of correct digits by a factor of 9.
+https://en.wikipedia.org/wiki/Borwein's_algorithm
+
+
+Have used Newtons method to calculate cube root.
+https://en.wikipedia.org/wiki/Cube_root
+
+
